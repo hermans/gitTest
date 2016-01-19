@@ -9,4 +9,8 @@ class PaymentMethod
     public $title;
     public $description;
     
+    public function process()
+    {
+        
+    }
 }
