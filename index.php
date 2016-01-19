@@ -1,4 +1,6 @@
 <?php
+include 'db.php';
+
 echo 'testing';
 
 # for loop
