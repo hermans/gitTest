@@ -1,4 +1,7 @@
 <?php
+/*
+ * Database class
+ */
 class db
 {
     public function connectToDb(){
