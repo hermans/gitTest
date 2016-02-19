@@ -7,6 +7,7 @@ class db
 {
     // connect to database
     public function connectToDb(){
+        // test
         
     }
     
