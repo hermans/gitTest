@@ -15,4 +15,9 @@ class db
     public function closeDb(){
         
     }
+    
+    public function test()
+    {
+        
+    }
 }
